@@ -15,3 +15,12 @@ Events
 
 1. **Click** to translate [2]
 2. **Slide left** to input a translation [3]
+
+Numbers
+===
+
+1. Active Vocabulary: number of words you can actively remember at any moment
+2. Vocabulary: number of words you have came across at this point
+3. Active Vocabulary Average Word Length: the average (numeral) word length for the active vocabulary
+4. (Vocabulary - Active Vocabulary) Average Word Length: the average (numeral) word length for the words I can't recall
+
